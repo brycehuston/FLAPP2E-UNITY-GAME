@@ -54,7 +54,7 @@ Players compete for the top leaderboard spot to earn weekly crypto prizes — no
 - 🌐 WEBSITE: Coming soon...
 - 🐦 Twitter: [https://x.com/flapp2e]  
 - 💬 Telegram: [https://t.me/flapp2e]  
-- 🎮 Play FLAP on [Itch.io] (https://bossbytes.itch.io/flapp2e)
+- 🎮 Play FLAP on [Itch.io] (Coming soon...)
 
 ---
 
